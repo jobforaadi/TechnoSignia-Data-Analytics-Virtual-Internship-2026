@@ -7,7 +7,7 @@ My name is Aditya Deshmukh ,I am pursuing MCA and  completed BCA . I am interest
 - Excel
 - SQL
 - Power bi
-- Pyuthon
+- Python
 
 ## Programming 
 - Python
